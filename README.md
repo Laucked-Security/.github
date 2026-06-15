@@ -1,45 +1,63 @@
 <div align="center">
 
-<img src="./logo.png" alt="Laucked" width="120" />
+<img src="./logo.png" alt="Laucked" width="110" />
 
 # Laucked
 
-**Expert-led penetration testing. Web, API, mobile, infrastructure, and AI/LLM security.**
+### Offensive security, by human experts
 
-[Website](https://laucked.com) · [Contact](mailto:contact@laucked.com) · [Book a discovery call](https://calendly.com/your-link)
+We break into web apps, APIs, mobile, infrastructure, and AI systems before attackers do. No resold scanner output. Every finding is manually discovered, exploited, and documented.
+
+<br/>
+
+[![Website](https://img.shields.io/badge/laucked.com-0B0E14?style=for-the-badge&logo=safari&logoColor=2DE38B)](https://laucked.com)
+[![Contact](https://img.shields.io/badge/contact@laucked.com-0B0E14?style=for-the-badge&logo=maildotru&logoColor=2DE38B)](mailto:contact@laucked.com)
+[![Toulouse, France](https://img.shields.io/badge/Toulouse-France-0B0E14?style=for-the-badge&logo=googlemaps&logoColor=2DE38B)](https://laucked.com)
 
 </div>
 
 ---
 
-## Who we are
-
-Laucked is a French offensive security firm. Human experts only, no resold scanner output. Every engagement is led by certified specialists who manually find, exploit, and document the issues that automated tools miss.
-
 ## What we test
 
-- **Web applications** — authentication, business logic, injection, access control
-- **APIs** — REST and GraphQL, broken object-level authorization, mass assignment
-- **Mobile** — Android and iOS, client-side storage, transport, hardening
-- **Infrastructure** — network, Active Directory, privilege escalation, lateral movement
-- **AI / LLM systems** — prompt injection, agent and tool abuse, OWASP LLM Top 10, EU AI Act readiness
+| Domain | Focus |
+| :-- | :-- |
+| **Web applications** | Authentication, business logic, injection, broken access control |
+| **APIs** | REST and GraphQL, BOLA, mass assignment, rate-limit abuse |
+| **Mobile** | Android and iOS, local storage, transport security, hardening |
+| **Infrastructure** | Network, Active Directory, privilege escalation, lateral movement |
+| **AI and LLM systems** | Prompt injection, agent and tool abuse, OWASP LLM Top 10, EU AI Act readiness |
 
-## Why AI security
+## AI and LLM security, as a core specialty
 
-LLMs and autonomous agents introduce an attack surface that traditional pentesting does not cover. Prompt injection, tool poisoning, and agent privilege escalation are not theoretical. We test AI systems the way an attacker would, and we do it as a core specialty rather than an afterthought.
+> LLMs and autonomous agents open an attack surface that classic pentesting does not cover. Prompt injection, tool poisoning, and agent privilege escalation are happening in production today.
+
+This is where Laucked is different. We test AI systems the way a real attacker would, and we treat it as a primary discipline rather than a checkbox. If your product ships an LLM feature, an agent, or an MCP integration, that surface needs its own assessment.
+
+## How we work
+
+1. **Free diagnostic.** A surface-level review so you know where you stand, at no cost and no commitment.
+2. **Expert pentest.** A scoped, manual engagement led by certified specialists, with a report your team can act on.
+3. **Guard.** Continuous post-pentest monitoring so a clean report stays clean.
 
 ## Open source
 
-This organization publishes methodology tooling built by our team to make offensive security work faster and more reproducible. Original content only, no leaked course or exam material. See the pinned repositories.
+This organization publishes methodology tooling built by our team to make offensive work faster and more reproducible. Original content only, no leaked course or exam material.
 
-## Certifications
+Browse the pinned repositories below.
 
-Our team holds OSCP and OSEP certifications, with an ongoing investment in the OffSec stack.
+## Team and certifications
 
-## Work with us
+Our specialists hold **OSCP** and **OSEP** certifications, with a continued investment in the OffSec stack and AI security research.
 
-- Website: [laucked.com](https://laucked.com)
-- Email: [contact@laucked.com](mailto:contact@laucked.com)
-- Discovery call: [book a slot](https://calendly.com/your-link)
+---
 
-Based in the Toulouse area, France. Serving France, Belgium, and beyond.
+<div align="center">
+
+### Think your attack surface is covered? Let us check.
+
+[![Book a discovery call](https://img.shields.io/badge/Book%20a%20discovery%20call-2DE38B?style=for-the-badge&logoColor=0B0E14)](https://calendly.com/laucked/appel-decouverte-laucked)
+
+**[laucked.com](https://laucked.com)** &middot; Based in the Toulouse area, France &middot; Serving France, Belgium, and beyond
+
+</div>
